@@ -74,7 +74,7 @@ const bikini = [
     {
     image :process.env.PUBLIC_URL+'13.jpg' ,
     title:'Purpleit',
-    desc:'Purpleit is Sensual Swimsuit for you .',
+    desc:'Purpleit is the most Sensual Swimsuit for you and for everyone .',
     time:1500
 },
     {
