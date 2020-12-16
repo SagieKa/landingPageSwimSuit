@@ -35,7 +35,7 @@ export default function Bikinis() {
       <Grid container  direction="row"
       justify="space-between"
       alignItems="baseline"
-       className={classes.root}  spacing={3} id='place-to-visit'>
+       className={classes.root}  spacing={1} id='place-to-visit'>
          {items}
       </Grid>
         // <div className={classes.root} id='place-to-visit' >

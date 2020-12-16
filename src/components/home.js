@@ -10,7 +10,8 @@ root:{
     backgroundImage:`url(${process.env.PUBLIC_URL+'homepic.jpg'})` ,
     backgroundRepeat:'no-repeat',
     backgroundSize:'cover',
-    backgroundAttachment:'fixed'
+    backgroundAttachment:'fixed',
+    overflow:'hidden'
 
 }
 }))
