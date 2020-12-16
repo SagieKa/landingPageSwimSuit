@@ -14,7 +14,7 @@ const useStyles = makeStyles({
     maxWidth: 645,
     background:'rgba(0,0,0,0.5)',
     margin:'20px',
-    minWidth:'600px'
+    // minWidth:'600px'
   },
   media: {
     height: 440,

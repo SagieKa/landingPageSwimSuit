@@ -5,6 +5,7 @@ import Header from './Header'
 import Bikinis from './Bikinis' 
 const useStyles =makeStyles((theme)=>({
 root:{
+    minWidth:'100%',
     minHeight:'100vh',
     backgroundImage:`url(${process.env.PUBLIC_URL+'homepic.jpg'})` ,
     backgroundRepeat:'no-repeat',
