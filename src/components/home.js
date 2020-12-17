@@ -3,6 +3,7 @@ import {makeStyles} from '@material-ui/core/styles'
 import {CssBaseline} from '@material-ui/core'
 import Header from './Header'
 import Bikinis from './Bikinis' 
+import Form from './Form'
 const useStyles =makeStyles((theme)=>({
 root:{
     minWidth:'100%',
@@ -23,6 +24,7 @@ export default function Home() {
             <CssBaseline/>
             <Header/>
             <Bikinis/>
+            <Form/>
         </div>
   )
 }
